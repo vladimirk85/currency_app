@@ -1,0 +1,52 @@
+.dropdown-container{
+  width: 350px;
+  height: 200px;
+  margin: 10% auto;
+  border: 1px solid #d9d9d9;
+}
+
+.label{
+  height: 12px;
+  font-family: OpenSans;
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #808080;
+  margin: 5% auto;
+  margin-left: 10%;
+}
+
+.label:first-of-type, .dropdown-field:first-of-type{
+  margin: 10% auto;
+  margin-left: 11%;
+}
+
+.country-label{
+  width: 51px;
+}
+
+.currency-label {
+  width: 57px;
+}
+
+.dropdown-field{
+  display: inline-table;
+  width: 178px;
+  border-radius: 5px;
+  margin: 5% auto;
+  margin-left: 10%;
+}
+
+.Select-arrow {
+  width: 9px;
+  height: 6px;
+  border-color: #262626 transparent transparent;
+}
+
+.Select-control{
+  background-color: #f5fbfc;
+}
